@@ -4,7 +4,7 @@ import requests
 # FastAPI Base URL
 # ==========================================================
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://insurance-fraud-api-wzs5.onrender.com"
 
 
 # ==========================================================
